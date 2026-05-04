@@ -35,9 +35,9 @@ ensures a deep understanding of:
   comprehension before scanning is a foundational Python pattern that
   appears throughout data pipelines, ML preprocessing, and beyond.
 
-  ### How it works
+### How it works
 The logic iterates through the dataset to calculate the **Missingness Ratio**:
 
-$$Missing\ \% = \left( \frac{Total\ Nulls}{Total\ Data\ Points} \right) \times 100$$
+$$Missing\ \% = \frac{Total\ Nulls}{Total\ Data\ Points} \times 100$$
 
 If the percentage of missing values exceeds a specific threshold, the script flags the feature for manual review rather than automatic processing.
