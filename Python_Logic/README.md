@@ -69,9 +69,11 @@ If $\max = \min$, the function defaults to returning $0.0$ for all entries to ma
 
 ---
 
-#Data Analysis: Custom Aggregator & Inspector
+Data Analysis: Custom Aggregator & Inspector
 
 These modules provide the essential tools for summarizing and auditing datasets using pure Python logic.
+
+---
 
 #4. Group-By Aggregator 
 This mimics the core functionality of `pandas.groupby().mean()` to summarize numerical data across categories.
