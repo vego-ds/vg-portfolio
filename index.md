@@ -1,6 +1,6 @@
 # Welcome to my Data Science Portfolio
 
-Hi, I'm Rudra. This site documents my journey into Data Science through First-Principles logic.
+Hi, I'm Raam. This site documents my journey into Data Science through First-Principles logic.
 
 ### Explore My Work:
 *   [Python Logic Modules](./Python_Logic/README.md)
