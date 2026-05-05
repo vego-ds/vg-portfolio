@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Welcome to my Data Science Portfolio
 
 Hi, I'm Raam. This site documents my journey into Data Science through First-Principles logic.
