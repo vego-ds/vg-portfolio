@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
+commonmark:
+  extensions: ["math"]
 title: Raam's Data Science Portfolio
 description: Documenting a career transition from first principles.
