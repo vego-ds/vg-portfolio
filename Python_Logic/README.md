@@ -87,6 +87,7 @@ Why from scratch?
 How it works:
 
 The function uses a dictionary to map unique keys to lists of values, then reduces those lists using:
+
 $$\text{Group Mean} = \frac{\sum \text{Group Values}}{\text{Count of Group Values}}$$
 
 ---
