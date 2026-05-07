@@ -61,7 +61,7 @@ Implementing this manually ensures a deep understanding of:
 
 How it works:
 
-The logic applies the following transformation to each value:
+The logic applies the following transformation to each value $x$:
 
 $$\text{Normalized Value} = \frac{x - \min(values)}{\max(values) - \min(values)}$$
 
