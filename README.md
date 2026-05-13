@@ -1,2 +1,2 @@
 # vg-portfolio
-Documenting a career transition from first principles. Currently: Python &amp; R. Roadmap: SQL → Azure/AWS → RAG &amp; LLM Orchestration. I don't just install modules; I earn the logic behind them. A living repo of continuous learning.
+Documenting a career transition into Data Science — built on 7 years across Logistics (U-Haul, Canada), SaaS, and EdTech. Python & R today. SQL → Azure/AWS → RAG next. I don't just install modules — I earn the logic behind them.
