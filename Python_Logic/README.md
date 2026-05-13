@@ -42,7 +42,7 @@ How it works:
 
 The logic iterates through the dataset to calculate the **Missingness Ratio**:
 
-$$\text{Missing Ratio} = \frac{\text{Total Nulls}}{\text{Total Data Points}} \times 100$$
+$$\text{Missingness Ratio} = \frac{\text{Total Nulls}}{\text{Total Data Points}} \times 100$$
 
 If the percentage of missing values exceeds a specific threshold, the script flags the feature for manual review rather than automatic processing.
 
